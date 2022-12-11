@@ -1,0 +1,14 @@
+[package]
+name = "my-project"
+version = "0.1.0"
+edition = "2021"
+
+# although we don't have any crates defined here
+# we actually have two crates because of lib.rs and main.rs
+
+# rules around crates
+# a package must have at least one crate
+# a package can have 0 or 1 library crates
+# a package can have any number of binary crates
+
+[dependencies]
