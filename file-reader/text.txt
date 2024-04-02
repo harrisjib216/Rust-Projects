@@ -1,0 +1,4 @@
+here is a file with some text inside of it.
+the goal is to have some characters we can search later.
+
+this tool should function similarly to the find bar in a web browser
